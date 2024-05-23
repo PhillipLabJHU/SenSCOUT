@@ -17,7 +17,7 @@ Paper: [https://www.biorxiv.org/content/10.1101/2023.05.17.541204v1](https://www
    8. *Xception Data Creator* workflow to get single cell image instances for Xception senescence model
    9. *Xception Training Model and Applier* workflow to train Xception senescence model and applying to new dataset
 3. **Cell Profiler**
- 1. Contains example cell profiler pipeline for segmentation and IF quanitification of single cells
+    Contains example cell profiler pipeline for segmentation and IF quanitification of single cells
 4. **Models**
    1. Contains trained computational models used for the SenScout framework
 5. **Segmented Images**
