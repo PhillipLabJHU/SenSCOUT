@@ -20,9 +20,9 @@ Paper: [https://www.biorxiv.org/content/10.1101/2023.05.17.541204v1](https://www
  1. Contains example cell profiler pipeline for segmentation and IF quanitification of single cells
 4. **Models**
    1. Contains trained computational models used for the SenScout framework
-4. **Segmented Images**
+5. **Segmented Images**
    1. Example segmented images of dermal fibroblasts from 45 year old patient at baseline and after DOX senescence induction
-5. **Data Availability**
+6. **Data Availability**
    1. Please contact authors for data availability
    
 ---
