@@ -6,7 +6,7 @@ Paper: [https://www.biorxiv.org/content/10.1101/2023.05.17.541204v1](https://www
 **Use Guide**:
 1. **Manuscript and Figures Folder** 
    1. Contains paper and associated figures
-2. **Notebooks Folder**
+2. **Codes Folder**
    1. Contains example workflow 
    2. *Preprocessing* delineates log normalization and standard scaling of morphological data
    3. *Senescence UMAP_KMEANS* describes 2D dimensionality reduction and identification of KMEANS clusters
@@ -16,8 +16,14 @@ Paper: [https://www.biorxiv.org/content/10.1101/2023.05.17.541204v1](https://www
    7. *Senotherapy Response Dendrogram* describes hierachal clustering to identify the 4 response modalities for single cell responses.
    8. *Xception Data Creator* workflow to get single cell image instances for Xception senescence model
    9. *Xception Training Model and Applier* workflow to train Xception senescence model and applying to new dataset
-3. **Data Availability**
-   1. Please contact authors for data availability 
+3. **Cell Profiler**
+ 1. Contains example cell profiler pipeline for segmentation and IF quanitification of single cells
+4. **Models**
+   1. Contains trained computational models used for the SenScout framework
+4. **Segmented Images**
+   1. Example segmented images of dermal fibroblasts from 45 year old patient at baseline and after DOX senescence induction
+5. **Data Availability**
+   1. Please contact authors for data availability
    
 ---
 **Python Library Dependencies**\
